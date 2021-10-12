@@ -1,0 +1,10 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:QuanLyPhongKham.Style">
+
+    <LinearGradientBrush x:Key="gradientBrushGrid" StartPoint="0,0.5" EndPoint="1,0.5">
+        <GradientStop Color="#1c97a1" Offset="0" />
+        <GradientStop Color="#1fc2c8" Offset="0.5" />
+        <GradientStop Color="#1c97a1" Offset="1" />
+    </LinearGradientBrush>
+</ResourceDictionary>

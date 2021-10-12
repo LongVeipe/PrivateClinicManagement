@@ -1,0 +1,28 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:QuanLyPhongKham.Style">
+    <Style x:Key="ListViewItemStyle" TargetType="ListViewItem" >
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="ListBoxItem">
+                    <Border x:Name="Border" SnapsToDevicePixels="true">
+                        <GridViewRowPresenter VerticalAlignment="Center" HorizontalAlignment="Left"/>
+                        <Border.Style>
+                            <Style TargetType="Border" >
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding ColorProperty}" Value="Blue">
+                                        <Setter Property="Background" Value="Blue"/>
+                                    </DataTrigger>
+                                    <DataTrigger Binding="{Binding ColorProperty}" Value="Red">
+                                        <Setter Property="Background" Value="Red"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Border.Style>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    
+</ResourceDictionary>

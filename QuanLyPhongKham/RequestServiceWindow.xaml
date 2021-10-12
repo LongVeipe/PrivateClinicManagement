@@ -1,0 +1,111 @@
+﻿<Window x:Class="QuanLyPhongKham.RequestServiceWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuanLyPhongKham"
+        mc:Ignorable="d"
+        
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:uc="clr-namespace:QuanLyPhongKham.UC"
+        TextElement.FontWeight="Regular"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        FontSize="20"
+        WindowStyle="None"
+        ResizeMode="CanMinimize"
+        WindowStartupLocation="CenterScreen"
+        x:Name="requestServiceWindow"
+        Title="Yêu cầu dịch vụ" Height="700" Width="1200">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Style/TabControl.xaml"></ResourceDictionary>
+                <ResourceDictionary Source="/Style/ListView.xaml"></ResourceDictionary>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Grid>
+            <Border BorderBrush="#1c97a1" BorderThickness="1,0,1,1"  CornerRadius="10"></Border>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="25"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="auto"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Border BorderThickness="1" CornerRadius="10,10,0,0" Background="{StaticResource ResourceKey=gradientBrushTabControlHeader}"></Border>
+                    <TextBlock FontSize="18" Text="YÊU CẦU DỊCH VỤ" Foreground="White" Margin="20,4,0,0">
+                        <TextBlock.Effect>
+                            <DropShadowEffect BlurRadius="0.0" Color="#024c52"  Direction="90" Opacity="1" ShadowDepth="1"/>
+                        </TextBlock.Effect>
+                    </TextBlock>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="0">
+                        <ListView Name="ServiceListView" FontSize="20" ItemsSource="{Binding ListService}" Margin="10 10 20 10" ScrollViewer.VerticalScrollBarVisibility="Auto"  ScrollViewer.HorizontalScrollBarVisibility="Visible"  ScrollViewer.CanContentScroll="True"  HorizontalAlignment="Stretch" VerticalAlignment="Top" >
+                            <ListView.View>
+                                <GridView AllowsColumnReorder="true">
+                                    <GridViewColumn Header="Dịch vụ chưa được yêu cầu" DisplayMemberBinding="{Binding TenDichVu}" />
+                                    <GridViewColumn>
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate >
+                                                <Button
+                                                        Command="{Binding DataContext.AddCommand, ElementName=ServiceListView}"
+                                                        CommandParameter="{Binding}">
+                                                    <materialDesign:PackIcon Kind="ArrowRightBold"/>
+                                                </Button>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+                                </GridView>
+                            </ListView.View>
+                        </ListView>
+                    </Grid>
+                    <Grid Grid.Column="1">
+                        <ListView Name="RequestListView" FontSize="20" ItemsSource="{Binding ListRequest}" Margin="10" ScrollViewer.VerticalScrollBarVisibility="Auto"  ScrollViewer.HorizontalScrollBarVisibility="Visible"  ScrollViewer.CanContentScroll="True"  HorizontalAlignment="Stretch" VerticalAlignment="Top" >
+                            <ListView.View>
+                                <GridView AllowsColumnReorder="true">
+                                    <GridViewColumn Header="Dịch vụ đang được yêu cầu" DisplayMemberBinding="{Binding DICHVU.TenDichVu}" />
+                                    <GridViewColumn>
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate >
+                                                <Button
+                                                        Command="{Binding DataContext.DeleteCommand, ElementName=RequestListView}"
+                                                        CommandParameter="{Binding}">
+                                                    <materialDesign:PackIcon Kind="ArrowLeftBold"/>
+                                                </Button>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+                                </GridView>
+                            </ListView.View>
+                        </ListView>
+                    </Grid>
+                    <Grid Grid.Column="2">
+                        <ListView Name="UsedListView" FontSize="20" ItemsSource="{Binding ListUsed}" Margin="20 10 10 10" ScrollViewer.VerticalScrollBarVisibility="Auto"  ScrollViewer.HorizontalScrollBarVisibility="Visible"  ScrollViewer.CanContentScroll="True"  HorizontalAlignment="Stretch" VerticalAlignment="Top" >
+                            <ListView.View>
+                                <GridView AllowsColumnReorder="true">
+                                    <GridViewColumn Header="Dịch vụ đã được sử dụng" DisplayMemberBinding="{Binding DICHVU.TenDichVu}" />
+                                </GridView>
+                            </ListView.View>
+                        </ListView>
+                    </Grid>
+                </Grid>
+                <Button Grid.Row="2" Command="{Binding CloseCommand}" CommandParameter="{Binding ElementName=requestServiceWindow}" Style="{StaticResource MaterialDesignFloatingActionLightButton}"
+                        Height="50" Width="50"
+                        Margin="15">
+                    <materialDesign:PackIcon Kind="Check" Height="40" Width="40" />
+                </Button>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

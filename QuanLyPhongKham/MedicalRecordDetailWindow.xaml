@@ -1,0 +1,122 @@
+﻿<Window x:Class="QuanLyPhongKham.MedicalRecordDetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuanLyPhongKham"
+        mc:Ignorable="d"
+        
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:uc="clr-namespace:QuanLyPhongKham.UC"        
+        TextElement.FontWeight="Regular"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        WindowStyle="None"
+        Background="Transparent"
+        AllowsTransparency="True"
+        ResizeMode="CanMinimize"
+        WindowStartupLocation="CenterScreen"
+        x:Name="medicalRecordDetailWindow"
+        Title="Chi tiết phiếu khám" Height="750" Width="700">
+    <Grid>
+        <Border BorderBrush="Teal" BorderThickness="1,0,1,1" CornerRadius="12"/>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="60"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="25"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0" x:Name="Header">
+                <Border BorderThickness="0" CornerRadius="10,10,0,0" Background="Teal"></Border>
+                <Button Command="{Binding ExitCommand}"
+                        CommandParameter="{Binding ElementName=medicalRecordDetailWindow}"
+                        ToolTip="Trở về"
+                        Style="{StaticResource MaterialDesignFloatingActionLightButton}"
+                        Height="40" Width="40" HorizontalAlignment="Right" Margin="15 0 15 0">
+                    <materialDesign:PackIcon Kind="KeyboardBackspace" Height="40" Width="40" Foreground="White"/>
+                </Button>
+                <TextBlock Background="Transparent" FontSize="35" Text="CHI TIẾT PHIẾU KHÁM" Foreground="White" Margin="20,4,0,0" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <TextBlock.Effect>
+                        <DropShadowEffect BlurRadius="0.0"
+                                          Color="#024c52"
+                                          Direction="90"
+                                          Opacity="1"
+                                          ShadowDepth="1"/>
+                    </TextBlock.Effect>
+                </TextBlock>
+            </Grid>
+            <Grid Grid.Row="1" Background="White">
+                <Border BorderBrush="Teal" BorderThickness="2 0 2 0"/>
+                <Grid Margin="5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"></RowDefinition>
+                        <RowDefinition Height="auto"></RowDefinition>
+                        <RowDefinition Height="auto"></RowDefinition>
+                        <RowDefinition Height="auto"></RowDefinition>
+                        <RowDefinition Height="auto"></RowDefinition>
+                        <RowDefinition Height="auto"></RowDefinition>
+                        <RowDefinition Height="auto"></RowDefinition>
+                        <RowDefinition Height="2*"></RowDefinition>
+                        <RowDefinition Height="auto"></RowDefinition>
+                        <RowDefinition Height="3*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <TextBlock Grid.Row="0" Margin="5" FontSize="20" FontWeight="Bold" Foreground="Teal" Text="Thông tin cá nhân"></TextBlock>
+                    <WrapPanel Grid.Row="1" Margin="20 0 0 0">
+                        <TextBlock Margin="5" FontSize="17" FontWeight="Bold" Text="Tên bệnh nhân"></TextBlock>
+                        <TextBlock Margin="5" FontSize="17" Text="{Binding Record.BENHNHAN.TenBenhNhan}"></TextBlock>
+                        <TextBlock Margin="10 5 5 5" FontSize="17" FontWeight="Bold" Text="| Ngày sinh"></TextBlock>
+                        <TextBlock Margin="5" FontSize="17" Text="{Binding Record.BENHNHAN.NgaySinh, StringFormat='{}{0:dd/MM/yyyy}'}"></TextBlock>
+                        <TextBlock Margin="10 5 5 5" FontSize="17" FontWeight="Bold" Text="| Giới tính"></TextBlock>
+                        <TextBlock Margin="5" FontSize="17" Text="{Binding Record.BENHNHAN.GioiTinh}"></TextBlock>
+                    </WrapPanel>
+                    <WrapPanel Grid.Row="2" Margin="20 0 0 0">
+                        <TextBlock Margin="5" FontSize="17" FontWeight="Bold" Text="Địa chỉ"></TextBlock>
+                        <TextBlock Margin="5" FontSize="17" Text="{Binding Record.BENHNHAN.DiaChi}"></TextBlock>
+                    </WrapPanel>
+                    <WrapPanel Grid.Row="3" Margin="20 0 0 0">
+                        <TextBlock Margin="5" FontSize="17" FontWeight="Bold" Text="Số điện thoại"></TextBlock>
+                        <TextBlock Margin="5" FontSize="17" Text="{Binding Record.BENHNHAN.SoDienThoai}"></TextBlock>
+                    </WrapPanel>
+                    <TextBlock Grid.Row="4" Margin="5 15 5 5" FontSize="20" FontWeight="Bold" Foreground="Teal" Text="Thông tin khám bệnh"></TextBlock>
+                    <WrapPanel Grid.Row="5" Margin="20 0 0 0">
+                        <TextBlock Margin="5" FontSize="17" FontWeight="Bold" Text="Triệu chứng"></TextBlock>
+                        <TextBlock Margin="5" FontSize="17" Text="{Binding Record.TrieuChung}"></TextBlock>
+                        <TextBlock Margin="10 5 5 5" FontSize="17" FontWeight="Bold" Text="| Chẩn đoán"></TextBlock>
+                        <TextBlock Margin="5" FontSize="17" Text="{Binding Record.LOAIBENH.TenLoaiBenh}"></TextBlock>
+                    </WrapPanel>
+                    <TextBlock Grid.Row="6" Margin="5 15 5 5" FontSize="20" FontWeight="Bold" Foreground="Teal" Text="Thông tin dịch vụ"></TextBlock>
+                    <ListView Grid.Row="7" FontSize="17" ItemsSource="{Binding ListService}" Margin="5"  ScrollViewer.VerticalScrollBarVisibility="Auto"  ScrollViewer.HorizontalScrollBarVisibility="Visible"  ScrollViewer.CanContentScroll="True"  HorizontalAlignment="Stretch" VerticalAlignment="Top" >
+                        <ListView.View>
+                            <GridView AllowsColumnReorder="true">
+                                <GridViewColumn Header="Tên dịch vụ đã sử dụng" DisplayMemberBinding="{Binding DICHVU.TenDichVu}" />
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <TextBlock Grid.Row="8" Margin="5 15 5 5" FontSize="20" FontWeight="Bold" Foreground="Teal" Text="Thông tin đơn thuốc"></TextBlock>
+                    <ListView Grid.Row="9" FontSize="17" ItemsSource="{Binding ListMedicine}" Margin="5"  ScrollViewer.VerticalScrollBarVisibility="Auto"  ScrollViewer.HorizontalScrollBarVisibility="Visible"  ScrollViewer.CanContentScroll="True"  HorizontalAlignment="Stretch" VerticalAlignment="Top" >
+                        <ListView.View>
+                            <GridView AllowsColumnReorder="true">
+                                <GridViewColumn Header="Tên thuốc" DisplayMemberBinding="{Binding THUOC.TenThuoc}" />
+                                <GridViewColumn Header="Đơn vị" DisplayMemberBinding="{Binding THUOC.DONVI.TenDonVi}" />
+                                <GridViewColumn Header="Số lượng kê" DisplayMemberBinding="{Binding SoLuongKe}" />
+                                <GridViewColumn Header="Cách dùng" DisplayMemberBinding="{Binding CACHDUNG.TenCachDung}" />
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </Grid>
+            </Grid>
+            <Grid Grid.Row="2" RenderTransformOrigin="0.5,0.5">
+                <Grid.RenderTransform>
+                    <TransformGroup>
+                        <RotateTransform Angle="-180"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Grid.RenderTransform>
+                <Border BorderBrush="Teal" BorderThickness="2 2 2 0" CornerRadius="10,10,0,0" Background="White"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>
+

@@ -1,0 +1,837 @@
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe.config
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.pdb
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csprojAssemblyReference.cache
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\MainWindow.g.cs
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\App.g.cs
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.cache
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.lref
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\MainWindow.baml
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.g.resources
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.Properties.Resources.resources
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.GenerateResource.cache
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CoreCompileInputs.cache
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.exe
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.pdb
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\MaterialDesignColors.dll
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\MaterialDesignColors.pdb
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\App.baml
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CopyComplete
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\LoginWindow.g.cs
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\LoginWindow.baml
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\EntityFramework.dll
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\EntityFramework.xml
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_Content.g.cs
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\Style\TabControl.baml
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\Style\Button.baml
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\ReceptionWindow.g.cs
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\ReceptionWindow.baml
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\Style\ListView.baml
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\Style\TextBox.baml
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\UC\ControlBar.g.cs
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\UC\ControlBar.baml
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\AdminWindow.g.cs
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\AdminWindow.baml
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\DashboardWindow.g.cs
+C:\Users\LongVeipe\Desktop\NMCNPM\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\DashboardWindow.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe.config
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.pdb
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\EntityFramework.dll
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\MaterialDesignColors.dll
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\EntityFramework.xml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\MaterialDesignColors.pdb
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csprojAssemblyReference.cache
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\AdminWindow.g.cs
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\DashboardWindow.g.cs
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\LoginWindow.g.cs
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\MainWindow.g.cs
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\ReceptionWindow.g.cs
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\UC\ControlBar.g.cs
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\App.g.cs
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_Content.g.cs
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.cache
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.lref
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\App.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\AdminWindow.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\DashboardWindow.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\LoginWindow.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\MainWindow.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\ReceptionWindow.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\Style\ListView.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\Style\TabControl.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\Style\Button.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\Style\TextBox.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\UC\ControlBar.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.g.resources
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.Properties.Resources.resources
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.GenerateResource.cache
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CopyComplete
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.exe
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.pdb
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\Style\Grid.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\MedicineWindow.g.cs
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\MedicineWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe.config
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\EntityFramework.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\MaterialDesignColors.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\EntityFramework.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\MaterialDesignColors.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csprojAssemblyReference.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\AdminWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\DashboardWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\LoginWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\MedicineWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\ReceptionWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\UC\ControlBar.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\App.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_Content.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.lref
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\App.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\AdminWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\DashboardWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\LoginWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\MedicineWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\ResourceXAML\MainResource.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\ReceptionWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\Style\Grid.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\Style\ListView.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\Style\TabControl.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\Style\Button.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\Style\TextBox.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\UC\ControlBar.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.g.resources
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.Properties.Resources.resources
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.GenerateResource.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CoreCompileInputs.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CopyComplete
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.exe
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\InfoWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\InfoWindow.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe.config
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.pdb
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\EntityFramework.dll
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\MaterialDesignColors.dll
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\EntityFramework.xml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\MaterialDesignColors.pdb
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csprojAssemblyReference.cache
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\AdminWindow.g.cs
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\DashboardWindow.g.cs
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\InfoWindow.g.cs
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\LoginWindow.g.cs
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\MedicineWindow.g.cs
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\ReceptionWindow.g.cs
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\UC\ControlBar.g.cs
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\App.g.cs
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_Content.g.cs
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.cache
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.lref
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\App.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\AdminWindow.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\DashboardWindow.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\InfoWindow.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\LoginWindow.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\MedicineWindow.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\ReceptionWindow.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\Style\Grid.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\Style\ListView.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\Style\TabControl.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\Style\Button.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\Style\TextBox.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\UC\ControlBar.baml
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.g.resources
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.Properties.Resources.resources
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.GenerateResource.cache
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CopyComplete
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.exe
+C:\Users\LenovoT470Ab\Downloads\QuanLyPhongKham_02\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe.config
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\bin\Debug\EntityFramework.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\bin\Debug\MaterialDesignColors.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\bin\Debug\EntityFramework.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\bin\Debug\MaterialDesignColors.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\AdminWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\DashboardWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\InfoWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\LoginWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\MedicineWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\ReceptionWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\UC\ControlBar.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\App.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_Content.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.lref
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\App.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\AdminWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\DashboardWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\InfoWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\LoginWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\MedicineWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\ResourceXAML\MainResource.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\ReceptionWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\Style\Grid.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\Style\ListView.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\Style\TabControl.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\Style\Button.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\Style\TextBox.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\UC\ControlBar.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.g.resources
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.Properties.Resources.resources
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.GenerateResource.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CoreCompileInputs.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CopyComplete
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.exe
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\ServiceWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\ServiceWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\ExaminationWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\ExaminationWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\RequestServiceWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\RequestServiceWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\CreatePrescriptionWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\CreatePrescriptionWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csprojAssemblyReference.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\AddMedicineWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_04\QuanLyPhongKham\obj\Debug\AddMedicineWindow.baml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe.config
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.pdb
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\EntityFramework.dll
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.dll
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\MaterialDesignColors.dll
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.dll
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.dll
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\EntityFramework.xml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.xml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\MaterialDesignColors.pdb
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.xml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.xml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csprojAssemblyReference.cache
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\AddMedicineWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\AdminWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\CreatePrescriptionWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\DashboardWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\ExaminationWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\InfoWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\LoginWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\MedicineWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\RequestServiceWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\ReceptionWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\ServiceWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\UC\ControlBar.g.cs
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\App.g.cs
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_Content.g.cs
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.cache
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.lref
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\App.baml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\AddMedicineWindow.baml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\AdminWindow.baml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\CreatePrescriptionWindow.baml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\DashboardWindow.baml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\ExaminationWindow.baml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\InfoWindow.baml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\LoginWindow.baml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\MedicineWindow.baml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\RequestServiceWindow.baml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\ResourceXAML\MainResource.baml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\ReceptionWindow.baml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\ServiceWindow.baml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\Style\Grid.baml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\Style\ListView.baml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\Style\TabControl.baml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\Style\Button.baml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\Style\TextBox.baml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\UC\ControlBar.baml
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.g.resources
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.Properties.Resources.resources
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.GenerateResource.cache
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CoreCompileInputs.cache
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CopyComplete
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.exe
+F:\NMCNPM\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe.config
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\EntityFramework.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\MaterialDesignColors.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\EntityFramework.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\MaterialDesignColors.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csprojAssemblyReference.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\AddMedicineWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\AdminWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\CreatePrescriptionWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\DashboardWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\ExaminationWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\InfoWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\LoginWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\MedicineWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\RequestServiceWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\ReceptionWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\ServiceWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\UC\ControlBar.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\App.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_Content.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.lref
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\App.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\AddMedicineWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\AdminWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\CreatePrescriptionWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\DashboardWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\ExaminationWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\InfoWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\LoginWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\MedicineWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\RequestServiceWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\ResourceXAML\MainResource.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\ReceptionWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\ServiceWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\Style\Grid.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\Style\ListView.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\Style\TabControl.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\Style\Button.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\Style\TextBox.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\UC\ControlBar.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.g.resources
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.Properties.Resources.resources
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.GenerateResource.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CoreCompileInputs.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CopyComplete
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.exe
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_06\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe.config
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\bin\Debug\EntityFramework.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\bin\Debug\MaterialDesignColors.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\bin\Debug\EntityFramework.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\bin\Debug\MaterialDesignColors.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csprojAssemblyReference.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\AddMedicineWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\AdminWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\CreatePrescriptionWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\DashboardWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\ExaminationWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\InfoWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\LoginWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\MedicineWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\RequestServiceWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\ReceptionWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\ServiceWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\UC\ControlBar.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\App.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_Content.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.lref
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\App.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\AddMedicineWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\AdminWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\CreatePrescriptionWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\DashboardWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\ExaminationWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\InfoWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\LoginWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\MedicineWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\RequestServiceWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\ResourceXAML\MainResource.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\ReceptionWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\ServiceWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\Style\Grid.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\Style\ListView.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\Style\TabControl.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\Style\Button.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\Style\TextBox.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\UC\ControlBar.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.g.resources
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.Properties.Resources.resources
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.GenerateResource.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CoreCompileInputs.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CopyComplete
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.exe
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\MedicalRecordDetailWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\MedicalRecordDetailWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\UnitWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\UnitWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\HowToUseWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\QuanLyPhongKham\QuanLyPhongKham_08\QuanLyPhongKham_06\QuanLyPhongKham_09\QuanLyPhongKham\obj\Debug\HowToUseWindow.baml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe.config
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.pdb
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\bin\Debug\EntityFramework.dll
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.dll
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\bin\Debug\MaterialDesignColors.dll
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.dll
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.dll
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\bin\Debug\EntityFramework.xml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.xml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\bin\Debug\MaterialDesignColors.pdb
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.xml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.xml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csprojAssemblyReference.cache
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\AddMedicineWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\AdminWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\CreatePrescriptionWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\DashboardWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\ExaminationWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\HowToUseWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\InfoWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\LoginWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\MedicalRecordDetailWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\MedicineWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\RequestServiceWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\ReceptionWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\ServiceWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\UC\ControlBar.g.cs
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\UnitWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\App.g.cs
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_Content.g.cs
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.cache
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.lref
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\App.baml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\AddMedicineWindow.baml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\AdminWindow.baml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\CreatePrescriptionWindow.baml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\DashboardWindow.baml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\ExaminationWindow.baml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\HowToUseWindow.baml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\InfoWindow.baml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\LoginWindow.baml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\MedicalRecordDetailWindow.baml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\MedicineWindow.baml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\RequestServiceWindow.baml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\ResourceXAML\MainResource.baml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\ReceptionWindow.baml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\ServiceWindow.baml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\Style\Grid.baml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\Style\ListView.baml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\Style\TabControl.baml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\Style\Button.baml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\Style\TextBox.baml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\UC\ControlBar.baml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\UnitWindow.baml
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.g.resources
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.Properties.Resources.resources
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.GenerateResource.cache
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CoreCompileInputs.cache
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CopyComplete
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.exe
+F:\NMCNPM\QuanLyPhongKham_11\QuanLyPhongKham_11\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe.config
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\bin\Debug\EntityFramework.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\bin\Debug\MaterialDesignColors.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\bin\Debug\EntityFramework.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\bin\Debug\MaterialDesignColors.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csprojAssemblyReference.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\AddMedicineWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\AdminWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\CreatePrescriptionWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\DashboardWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\ExaminationWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\HowToUseWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\InfoWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\LoginWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\MedicalRecordDetailWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\MedicineWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\RequestServiceWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\ReceptionWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\ServiceWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\UC\ControlBar.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\UnitWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\App.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_Content.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.lref
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\App.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\AddMedicineWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\AdminWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\CreatePrescriptionWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\DashboardWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\ExaminationWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\HowToUseWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\InfoWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\LoginWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\MedicalRecordDetailWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\MedicineWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\RequestServiceWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\ResourceXAML\MainResource.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\ReceptionWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\ServiceWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\Style\Grid.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\Style\ListView.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\Style\TabControl.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\Style\Button.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\Style\TextBox.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\UC\ControlBar.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\UnitWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.g.resources
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.Properties.Resources.resources
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.GenerateResource.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CoreCompileInputs.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CopyComplete
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.exe
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham_12\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe.config
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\bin\Debug\EntityFramework.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\bin\Debug\MaterialDesignColors.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\bin\Debug\EntityFramework.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\bin\Debug\MaterialDesignColors.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csprojAssemblyReference.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\AddMedicineWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\AdminWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\CreatePrescriptionWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\DashboardWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\ExaminationWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\HowToUseWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\InfoWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\LoginWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\MedicalRecordDetailWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\MedicineWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\RequestServiceWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\ReceptionWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\ServiceWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\UC\ControlBar.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\UnitWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\App.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_Content.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.lref
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\App.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\AddMedicineWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\AdminWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\CreatePrescriptionWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\DashboardWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\ExaminationWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\HowToUseWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\InfoWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\LoginWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\MedicalRecordDetailWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\MedicineWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\RequestServiceWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\ResourceXAML\MainResource.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\ReceptionWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\ServiceWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\Style\Grid.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\Style\ListView.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\Style\TabControl.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\Style\Button.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\Style\TextBox.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\UC\ControlBar.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\UnitWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.g.resources
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.Properties.Resources.resources
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.GenerateResource.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CoreCompileInputs.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CopyComplete
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.exe
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_13\QuanLyPhongKham_13\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.pdb
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe.config
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.pdb
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\bin\Debug\EntityFramework.dll
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.dll
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\bin\Debug\MaterialDesignColors.dll
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.dll
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.dll
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\bin\Debug\EntityFramework.xml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.xml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\bin\Debug\MaterialDesignColors.pdb
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.xml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.xml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csprojAssemblyReference.cache
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\AddMedicineWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\AdminWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\CreatePrescriptionWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\DashboardWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\ExaminationWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\HowToUseWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\InfoWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\LoginWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\MedicalRecordDetailWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\MedicineWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\RequestServiceWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\ReceptionWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\ServiceWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\UC\ControlBar.g.cs
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\UnitWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\App.g.cs
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_Content.g.cs
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.cache
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.lref
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\App.baml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\AddMedicineWindow.baml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\AdminWindow.baml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\CreatePrescriptionWindow.baml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\DashboardWindow.baml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\ExaminationWindow.baml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\HowToUseWindow.baml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\InfoWindow.baml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\LoginWindow.baml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\MedicalRecordDetailWindow.baml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\MedicineWindow.baml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\RequestServiceWindow.baml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\ResourceXAML\MainResource.baml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\ReceptionWindow.baml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\ServiceWindow.baml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\Style\Grid.baml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\Style\ListView.baml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\Style\TabControl.baml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\Style\Button.baml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\Style\TextBox.baml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\UC\ControlBar.baml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\UnitWindow.baml
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.g.resources
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.Properties.Resources.resources
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.GenerateResource.cache
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CoreCompileInputs.cache
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CopyComplete
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.exe
+F:\NMCNPM\QuanLyPhongKham_15\QuanLyPhongKham_14\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe.config
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\bin\Debug\EntityFramework.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\bin\Debug\MaterialDesignColors.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.dll
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\bin\Debug\EntityFramework.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\bin\Debug\MaterialDesignColors.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.xml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csprojAssemblyReference.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\AddMedicineWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\AdminWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\CreatePrescriptionWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\DashboardWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\ExaminationWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\HowToUseWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\InfoWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\LoginWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\MedicalRecordDetailWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\MedicineWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\RequestServiceWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\ReceptionWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\ServiceWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\UC\ControlBar.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\UnitWindow.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\App.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_Content.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.lref
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\App.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\AddMedicineWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\AdminWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\CreatePrescriptionWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\DashboardWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\ExaminationWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\HowToUseWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\InfoWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\LoginWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\MedicalRecordDetailWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\MedicineWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\RequestServiceWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\ResourceXAML\MainResource.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\ReceptionWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\ServiceWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\Style\Grid.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\Style\ListView.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\Style\TabControl.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\Style\Button.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\Style\TextBox.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\UC\ControlBar.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\UnitWindow.baml
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.g.resources
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.Properties.Resources.resources
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.GenerateResource.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CoreCompileInputs.cache
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CopyComplete
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.exe
+D:\UIT\Deadline\Nhập môn công nghệ phần mềm\Quản lý phòng khám Mới\QuanLyPhongKham_15\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.pdb
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe.config
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.pdb
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\bin\Debug\EntityFramework.dll
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.dll
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\bin\Debug\MaterialDesignColors.dll
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.dll
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.dll
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\bin\Debug\EntityFramework.xml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\bin\Debug\EntityFramework.SqlServer.xml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\bin\Debug\MaterialDesignColors.pdb
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\bin\Debug\Microsoft.Expression.Interactions.xml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\bin\Debug\System.Windows.Interactivity.xml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csprojAssemblyReference.cache
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\AddMedicineWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\AdminWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\CreatePrescriptionWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\DashboardWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\ExaminationWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\HowToUseWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\InfoWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\LoginWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\MedicalRecordDetailWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\MedicineWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\RequestServiceWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\ReceptionWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\ServiceWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\UC\ControlBar.g.cs
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\UnitWindow.g.cs
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\App.g.cs
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_Content.g.cs
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.cache
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\QuanLyPhongKham_MarkupCompile.lref
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\App.baml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\AddMedicineWindow.baml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\AdminWindow.baml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\CreatePrescriptionWindow.baml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\DashboardWindow.baml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\ExaminationWindow.baml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\HowToUseWindow.baml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\InfoWindow.baml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\LoginWindow.baml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\MedicalRecordDetailWindow.baml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\MedicineWindow.baml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\RequestServiceWindow.baml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\ResourceXAML\MainResource.baml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\ReceptionWindow.baml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\ServiceWindow.baml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\Style\Grid.baml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\Style\ListView.baml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\Style\TabControl.baml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\Style\Button.baml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\Style\TextBox.baml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\UC\ControlBar.baml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\UnitWindow.baml
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.g.resources
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.Properties.Resources.resources
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.GenerateResource.cache
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CoreCompileInputs.cache
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CopyComplete
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.exe
+F:\NMCNPM\QuanLyPhongKham_16\QuanLyPhongKham_16\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.pdb

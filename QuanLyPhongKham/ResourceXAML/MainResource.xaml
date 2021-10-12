@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:viewmodel="clr-namespace:QuanLyPhongKham.ViewModel"
+                    xmlns:local="clr-namespace:QuanLyPhongKham.MainResource">
+    <viewmodel:LoginViewModel x:Key="LoginVM"></viewmodel:LoginViewModel>
+    <viewmodel:ReceptionViewModel x:Key="ReceptionVM"></viewmodel:ReceptionViewModel>
+    <viewmodel:MedicineViewModel x:Key="MedicineVM"></viewmodel:MedicineViewModel>
+    <viewmodel:AdminViewModel x:Key="AdminVM"></viewmodel:AdminViewModel>
+</ResourceDictionary>

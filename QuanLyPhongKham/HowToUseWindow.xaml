@@ -1,0 +1,114 @@
+﻿<Window x:Class="QuanLyPhongKham.HowToUseWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuanLyPhongKham"
+        mc:Ignorable="d"
+        
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:uc="clr-namespace:QuanLyPhongKham.UC"        
+        TextElement.FontWeight="Regular"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        WindowStyle="None"
+        Background="Transparent"
+        AllowsTransparency="True"
+        ResizeMode="CanMinimize"
+        WindowStartupLocation="CenterScreen"
+        x:Name="howToUseWindow"
+        Title="Cách dùng" Height="500" Width="500">
+    <Grid>
+        <Border BorderBrush="Teal" BorderThickness="1,0,1,1" CornerRadius="12"/>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="60"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="25"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0" x:Name="Header">
+                <Border BorderThickness="0" CornerRadius="10,10,0,0" Background="Teal"></Border>
+                <Button Command="{Binding ExitCommand}"
+                        CommandParameter="{Binding ElementName=howToUseWindow}"
+                        ToolTip="Trở về"
+                        Style="{StaticResource MaterialDesignFloatingActionLightButton}"
+                        Height="40" Width="40" HorizontalAlignment="Right" Margin="15 0 15 0">
+                    <materialDesign:PackIcon Kind="KeyboardBackspace" Height="40" Width="40" Foreground="White"/>
+                </Button>
+                <TextBlock Background="Transparent" FontSize="35" Text="ĐƠN VỊ" Foreground="White" Margin="20,4,0,0" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <TextBlock.Effect>
+                        <DropShadowEffect BlurRadius="0.0"
+                                          Color="#024c52"
+                                          Direction="90"
+                                          Opacity="1"
+                                          ShadowDepth="1"/>
+                    </TextBlock.Effect>
+                </TextBlock>
+            </Grid>
+            <Grid Grid.Row="1" Background="White">
+                <Border BorderBrush="Teal" BorderThickness="2 0 2 0"/>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"></RowDefinition>
+                        <RowDefinition Height="auto"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <TextBox Margin="10" materialDesign:HintAssist.Hint="Tên cách dùng"
+                                             Text="{Binding Name, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}"
+                                             Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+                    <WrapPanel Grid.Row="1">
+                        <Button Margin="10"
+                                Style="{StaticResource MaterialDesignFloatingActionMiniButton}" Width="30" Height="30"
+                                Command="{Binding AddCommand}">
+                            <Button.Content>
+                                <materialDesign:PackIcon Kind="Add" Width="20" Height="20" />
+                            </Button.Content>
+                        </Button>
+                        <Button Margin="10"
+                                Style="{StaticResource MaterialDesignFloatingActionMiniButton}" Width="30" Height="30"
+                                Command="{Binding EditCommand}">
+                            <Button.Content>
+                                <materialDesign:PackIcon Kind="Edit" Width="20" Height="20" />
+                            </Button.Content>
+                        </Button>
+                    </WrapPanel>
+                    <ListView x:Name="ListView"  Grid.Row="2" ItemsSource="{Binding List,Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" SelectionMode="Single"
+                              SelectedItem="{Binding Selected}"
+                              Margin="10"   ScrollViewer.VerticalScrollBarVisibility="Auto"  ScrollViewer.HorizontalScrollBarVisibility="Visible"  ScrollViewer.CanContentScroll="True"  HorizontalAlignment="Stretch" VerticalAlignment="Top">
+                        <ListView.View>
+                            <GridView AllowsColumnReorder="true" >
+                                <GridViewColumn Header="Tên cách dùng" Width="150" DisplayMemberBinding="{Binding TenCachDung}" />
+                                <GridViewColumn>
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Button
+                                                                Command="{Binding DataContext.DeleteCommand, ElementName=ListView}"
+                                                                CommandParameter="{Binding}"
+                                                                Background="Red" BorderBrush="Transparent" BorderThickness="0">
+                                                <materialDesign:PackIcon Kind="CloseOutline"/>
+                                            </Button>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </Grid>
+            </Grid>
+            <Grid Grid.Row="2" RenderTransformOrigin="0.5,0.5">
+                <Grid.RenderTransform>
+                    <TransformGroup>
+                        <RotateTransform Angle="-180"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Grid.RenderTransform>
+                <Border BorderBrush="Teal" BorderThickness="2 2 2 0" CornerRadius="10,10,0,0" Background="White"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>
+
+
